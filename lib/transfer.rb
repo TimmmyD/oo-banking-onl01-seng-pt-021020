@@ -1,5 +1,5 @@
 class Transfer
-  # your code here
+  
   
   attr_accessor :transfer, :sender, :receiver, :amount, :status
   
