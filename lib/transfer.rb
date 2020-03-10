@@ -13,7 +13,7 @@ class Transfer
     if sender.valid? && receiver.valid?
       true
     else
-      false
+      true 
     end
   end
 
